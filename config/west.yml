@@ -12,7 +12,7 @@ manifest:
     - name: svalboard-zmk-module
       remote: grassfedreeve
       revision: test
-    - name: zmk-driver-pmw3360
+    - name: zmk-driver-pmw3389
       remote: grassfedreeve
       revision: main            
   self:
